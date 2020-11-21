@@ -1,8 +1,10 @@
-# PostCSS Aspect Ratio Property
+# PostCSS Aspect Ratio Property [![Build Status][ci-img]][ci]
 
 [PostCSS] plugin The CSS Working Group have designed an [aspect-ratio](https://drafts.csswg.org/css-sizing-4/#aspect-ratio) property for CSS.This plugin make this future feature available now..
 
 [PostCSS]: https://github.com/postcss/postcss
+[ci-img]:  https://travis-ci.org/supermonkeyz/postcss-aspect-ratio-property.svg
+[ci]:      https://travis-ci.org/supermonkeyz/postcss-aspect-ratio-property
 
 ```css
 .foo {
