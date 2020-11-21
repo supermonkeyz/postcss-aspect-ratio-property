@@ -1,6 +1,6 @@
 {
   "name": "postcss-aspect-ratio-property",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "PostCSS plugin CSS4 aspect-ratio property",
   "keywords": [
     "postcss",
