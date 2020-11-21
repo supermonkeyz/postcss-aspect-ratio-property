@@ -22,6 +22,9 @@
   "peerDependencies": {
     "postcss": "^8.1.0"
   },
+  "dependencies": {
+    "mathjs": "^8.0.1"
+  },
   "devDependencies": {
     "clean-publish": "^1.1.8",
     "eslint": "^7.10.0",
@@ -65,8 +68,5 @@
         "statements": 100
       }
     }
-  },
-  "dependencies": {
-    "mathjs": "^8.0.1"
   }
 }
