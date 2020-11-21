@@ -5,6 +5,6 @@ yarn.lock
 
 *.test.js
 .travis.yml
-.circleci
+.circleci/
 .editorconfig
 coverage/
