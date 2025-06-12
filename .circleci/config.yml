@@ -4,4 +4,11 @@ orbs:
 workflows:
   node-tests:
     jobs:
-      - node/test
+      - node/test:
+          pre-steps:
+            - run:
+                name: Install TypeScript
+                command: sudo npm install -g typescript
+            - run:
+                name: Build
+                command: npm run build
